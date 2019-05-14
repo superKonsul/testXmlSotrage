@@ -1,4 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <session>
-<id>000000</id>
-<name>Test Session</name>
-</session>
+<id>000000000</id>
+<name>Learn Spanish</name>
+<description>do it</description>
+<data>Don't forget me this weekend!</data>
+</session> 
